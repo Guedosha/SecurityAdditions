@@ -1,0 +1,7 @@
+name: SecurityAdditions
+version: '${project.version}'
+main: com.guedosha.securityadditions.Securityadditions
+api-version: 1.19
+authors: [ Guedosha ]
+description: Prevents non opped players from performing certain actions as a security mesure.
+website: guedosha.com
